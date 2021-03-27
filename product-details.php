@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/css/glide.core.css" />
   <!-- Custom StyleSheet -->
   <link rel="stylesheet" href="./css/styles.css" />
-  <title>Boy’s T-Shirt - Codevo</title>
+  <title>Boy’s T-Shirt </title>
 </head>
 
 <body>
@@ -22,13 +22,13 @@
   <nav class="nav">
     <div class="navigation container">
       <div class="logo">
-        <h1>Codevo</h1>
+        <h1>FASHION BOY</h1>
       </div>
 
       <div class="menu">
         <div class="top-nav">
           <div class="logo">
-            <h1>Codevo</h1>
+            <h1>FASHION BOY</h1>
           </div>
           <div class="close">
             <i class="bx bx-x"></i>
@@ -36,11 +36,11 @@
         </div>
 
         <ul class="nav-list">
-            <li class="nav-item">
-              <a href="index.php" class="nav-link scroll-link">Acceuil</a>
+        <li class="nav-item">
+              <a href="index.php" class="nav-link">Accueil</a>
             </li>
-             <li class="nav-item">
-              <a href="galerie.php" class="nav-link scroll-link">Galerie</a>
+            <li class="nav-item">
+              <a href="galerie.php" class="nav-link">Galerie</a>
             </li>
             <li class="nav-item">
               <a href="product.php" class="nav-link">Nos Produits</a>
@@ -88,31 +88,31 @@
     <div class="details container-md">
       <div class="left">
         <div class="main">
-          <img src="./images/pic1.jpg" alt="">
+          <img src="./images/veste5.jpg" alt="">
         </div>
         <div class="thumbnails">
           <div class="thumbnail">
-            <img src="./images/pic1.jpg" alt="">
+            <img src="./images/veste5.jpg" alt="">
           </div>
           <div class="thumbnail">
-            <img src="./images/pic2.jpg" alt="">
+            <img src="./images/veste5.jpg" alt="">
           </div>
           <div class="thumbnail">
-            <img src="./images/pic3.jpg" alt="">
+            <img src="./images/veste5.jpg" alt="">
           </div>
           <div class="thumbnail">
-            <img src="./images/pic4.jpg" alt="">
+            <img src="./images/veste5.jpg" alt="">
           </div>
         </div>
       </div>
       <div class="right">
         <span>Home/T-shirt</span>
-        <h1>Boy’s T-Shirt By Handsome</h1>
-        <div class="price">$50</div>
+        <h1>Boy’s T-Shirt</h1>
+        <div class="price">5000 Frs</div>
         <form>
           <div>
             <select>
-              <option value="Select Size" selected disabled>Select Size</option>
+              <option value="Select Size" selected disabled>Selectionnez la taille</option>
               <option value="1">32</option>
               <option value="2">42</option>
               <option value="3">52</option>
@@ -124,9 +124,9 @@
 
         <form class="form">
           <input type="text" placeholder="1">
-          <a href="cart.php" class="addCart">Add To Cart</a>
+          <a href="cart.php" class="addCart">Ajouter au panier</a>
         </form>
-        <h3>Product Detail</h3>
+        <h3>Detail Produit</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero minima delectus nulla voluptates nesciunt
           quidem laudantium, quisquam voluptas facilis dicta in explicabo, laboriosam ipsam suscipit!</p>
       </div>
@@ -137,7 +137,7 @@
   <section class="section featured">
     <div class="top container">
       <h1>Related Products</h1>
-      <a href="#" class="view-more">View more</a>
+      <a href="#" class="view-more">Voir plus</a>
     </div>
 
     <div class="product-center container">
@@ -159,7 +159,7 @@
             <i class="bx bxs-star"></i>
             <i class="bx bx-star"></i>
           </div>
-          <h4 class="price">$50</h4>
+          <h4 class="price">5000 Frs</h4>
         </div>
       </div>
       <div class="product">
@@ -181,7 +181,7 @@
             <i class="bx bxs-star"></i>
             <i class="bx bx-star"></i>
           </div>
-          <h4 class="price">$50</h4>
+          <h4 class="price">5000 Frs</h4>
         </div>
       </div>
       <div class="product">
@@ -203,7 +203,7 @@
             <i class="bx bxs-star"></i>
             <i class="bx bx-star"></i>
           </div>
-          <h4 class="price">$50</h4>
+          <h4 class="price">5000 Frs</h4>
         </div>
       </div>
       <div class="product">
@@ -225,7 +225,7 @@
             <i class="bx bxs-star"></i>
             <i class="bx bx-star"></i>
           </div>
-          <h4 class="price">$50</h4>
+          <h4 class="price">5000 Frs</h4>
         </div>
       </div>
     </div>

@@ -34,11 +34,11 @@
                 </div>
 
                 <ul class="nav-list">
-            <li class="nav-item">
-              <a href="index.php" class="nav-link scroll-link">Acceuil</a>
+                <li class="nav-item">
+              <a href="index.php" class="nav-link">Accueil</a>
             </li>
-             <li class="nav-item">
-              <a href="galerie.php" class="nav-link scroll-link">Galerie</a>
+            <li class="nav-item">
+              <a href="galerie.php" class="nav-link">Galerie</a>
             </li>
             <li class="nav-item">
               <a href="product.php" class="nav-link">Nos Produits</a>

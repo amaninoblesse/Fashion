@@ -34,11 +34,11 @@
                 </div>
 
                 <ul class="nav-list">
-            <li class="nav-item">
-              <a href="index.php" class="nav-link scroll-link">Acceuil</a>
+                <li class="nav-item">
+              <a href="index.php" class="nav-link">Accueil</a>
             </li>
-             <li class="nav-item">
-              <a href="galerie.php" class="nav-link scroll-link">Galerie</a>
+            <li class="nav-item">
+              <a href="galerie.php" class="nav-link">Galerie</a>
             </li>
             <li class="nav-item">
               <a href="product.php" class="nav-link">Nos Produits</a>
@@ -236,7 +236,7 @@
                                             <span class="icon">
                                             <i class="fas fa-swimmer" aria-hidden="true"></i>
                                             </span>
-                                            <span class="text">Swimmer</span>
+                                            <span class="text">Sous 1</span>
                                             </div>
                                         </a>
                                         <div class="dd_submenu">
@@ -248,7 +248,7 @@
                                                             <i class="fas fa-running" aria-hidden="true"></i>
                                                             </span>
                                                             <span class="text">
-                                                            Running
+                                                            Sous 2
                                                             </span>
                                                         </div>
                                                     </a>
@@ -259,7 +259,7 @@
                                                             <span class="icon">
                                                             <i class="fas fa-biking" aria-hidden="true"></i>
                                                             </span>
-                                                            <span class="text">Biking</span>
+                                                            <span class="text">first</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -269,7 +269,7 @@
                                                         <span class="icon">
                                                         <i class="far fa-futbol" aria-hidden="true"></i>
                                                         </span>
-                                                        <span class="text">Football</span>
+                                                        <span class="text">Second</span>
                                                         </div>
                                                     </a>
                                                 </li>
@@ -279,7 +279,7 @@
                                                         <span class="icon">
                                                         <i class="fas fa-swimmer" aria-hidden="true"></i>
                                                         </span>
-                                                        <span class="text">Swimmer</span>
+                                                        <span class="text">Third</span>
                                                         </div>
                                                     </a>
                                                 </li>
