@@ -128,8 +128,8 @@
             <form class="box" action="connexion_traitement.php" method="POST"  style="background: url(./images/tshirt2.jpg); width:400px; margin-top:50px; border-radius: 24px;">
         
                 <h1>Connexion</h1>
-                <input type="text" placeholder="Nom d'utlisateur" name="username" id="username" style="color: black;">
-                <input type="password" placeholder="Mot de passe" name="password" id="password" style="color: black;">
+                <input type="text" placeholder="Nom d'utlisateur" name="username" id="username" style="color: black;" required>
+                <input type="password" placeholder="Mot de passe" name="password" id="password" style="color: black;" required>
                 <input type="submit" name="" id="" value="Connexion" >
                 <a href="choix_inscription.php" style="background: white; border: dashed;">Inscription</a>
             </form>

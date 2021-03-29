@@ -142,10 +142,10 @@
             <form class="box" action="traitement_visiteur.php" method="POST"  style="background: url(./images/tshirt2.jpg); width:400px; border-radius: 24px;margin-top:50px;">
         
                 <h1>Formulaire</h1>
-                <input type="text" placeholder="Nom" name="name" id="name" style="color: black; ">
-                <input type="text" placeholder="prenom" name="surname" id="surname" style="color: black;">
-                <input type="text" placeholder="mail" name="mail" id="mail" style="color: black;">
-                <input type="text" placeholder="objet" name="objet" id="objet" style="height: 150px; color: black;" >
+                <input type="text" placeholder="Nom" name="name" id="name" style="color: black;" required>
+                <input type="text" placeholder="prenom" name="surname" id="surname" style="color: black;" required>
+                <input type="text" placeholder="mail" name="mail" id="mail" style="color: black;" required>
+                <input type="text" placeholder="objet" name="objet" id="objet" style="height: 150px; color: black;"  required>
                 <input type="submit" name="" id="" value="Valider" >
                
             </form>

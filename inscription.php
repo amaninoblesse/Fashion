@@ -142,13 +142,13 @@
             <form class="box" action="inscription_traitement.php" method="POST"  style="background: url(./images/tshirt2.jpg); width:400px; border-radius: 24px;margin-top:50px;">
         
                 <h1>Inscription</h1>
-                <input type="text" placeholder="Nom" name="name" id="name" style="color: black;">
-                <input type="text" placeholder="Prénom" name="surname" id="surname" style="color: black;">
-                <input type="date" placeholder="Date de naissance" name="birthdate" id="birthdate" style="color: black;">
-                <input type="text" placeholder="Lieu de naissance" name="birthplace" id="birthplace" style="color: black;">
-                <input type="text" placeholder="genre" name="genre" id="genre" style="color: black;">
-                <input type="text" placeholder="Contact" name="contact" id="contact" style="color: black;">
-                <input type="text" placeholder="mail" name="mail" id="mail" style="color: black;">
+                <input type="text" placeholder="Nom" name="name" id="name" style="color: black;" required>
+                <input type="text" placeholder="Prénom" name="surname" id="surname" style="color: black;" required>
+                <input type="date" placeholder="Date de naissance" name="birthdate" id="birthdate" style="color: black;" required>
+                <input type="text" placeholder="Lieu de naissance" name="birthplace" id="birthplace" style="color: black;" required>
+                <input type="text" placeholder="genre" name="genre" id="genre" style="color: black;" required>
+                <input type="text" placeholder="Contact" name="contact" id="contact" style="color: black;" required>
+                <input type="text" placeholder="mail" name="mail" id="mail" style="color: black;" required>
                 <input type="submit" name="" id="" value="Valider" >
             </form>
        

@@ -11,7 +11,7 @@
     
         $check->execute(array($username));
         $data = $check->fetch();
-        echo $data;
+     
         $row = $check->rowCount();
 
         if($row == 1)
